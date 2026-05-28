@@ -1,0 +1,32 @@
+aid: premier-league-standings
+name: Premier League Standings
+description: "All Current Premier League Standings and Statistics"
+url: https://rapidapi.com/heisenbug/api/premier-league-live-scores/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: Premier League Standings
+    description: "All Current Premier League Standings and Statistics"
+    humanURL: https://rapidapi.com/heisenbug/api/premier-league-live-scores/
+    baseURL: https://rapidapi.com/heisenbug/api/premier-league-live-scores/
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/heisenbug/api/premier-league-live-scores/
+common:
+  - type: Website
+    url: https://rapidapi.com/heisenbug/api/premier-league-live-scores/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
