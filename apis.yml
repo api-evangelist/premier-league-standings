@@ -1,4 +1,16 @@
 aid: premier-league-standings
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/premier-league-standings.png
 name: Premier League Standings
 description: "All Current Premier League Standings and Statistics"
 url: https://rapidapi.com/heisenbug/api/premier-league-live-scores/
